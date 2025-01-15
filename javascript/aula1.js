@@ -120,3 +120,15 @@ console.log('o valor da area será de: ' + area);
 
 
 console.log('---------------------------------desafio dados 2-----------------------------------------');
+                    // trocando os valores das variaveis // 
+let c  = 7;
+let d = 94 ;
+
+let temp = c; 
+c = d;
+d = temp;
+
+console.log(c);
+console.log(d);
+
+
