@@ -1,0 +1,22 @@
+{
+    "editor.columnSelection": false,
+    "editor.inlayHints.enabled": "on",
+    "workbench.localHistory.enabled": true,
+    "accessibility.verbosity.comments": true,
+    "accessibility.underlineLinks": false,
+    "accessibility.verbosity.diffEditor": true,
+    "accessibility.verbosity.notebook": true,
+    "accessibility.verbosity.walkthrough": true,
+    "explorer.fileNesting.enabled": false,
+    "explorer.excludeGitIgnore": false,
+    "outline.collapseItems": "alwaysExpand",
+    "breadcrumbs.showFiles": true,
+    "breadcrumbs.showFunctions": true,
+    "breadcrumbs.showFields": true,
+    "breadcrumbs.showMethods": true,
+    "breadcrumbs.showNamespaces": true,
+    "breadcrumbs.showNull": true,
+    "breadcrumbs.symbolSortOrder": "position",
+    "breadcrumbs.showVariables": true,
+    "workbench.editor.restoreViewState": true
+}
